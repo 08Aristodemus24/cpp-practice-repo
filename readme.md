@@ -1,1 +1,1 @@
-# A practice repository for recalling memory on previous C++ concepts and syntax
+# A practice repository for recalling previous memory on C++ concepts and syntax
