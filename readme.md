@@ -1,6 +1,5 @@
 # A practice repository for recalling previous memory on C++ concepts and syntax
 
-
 # Setting up C++ on Windows OS:
 ## Setting up make:
 **To do:**
